@@ -1,5 +1,11 @@
-## Olá, me chamo cristhiano rodrigues 👋
+## Olá, me chamo Cristhiano Rodrigues 👋
 
-👨🏼‍🏫 Atualmente estou no segundo periodo do curso de engenharia de software pela faculdade Estácio de Sá.
+## Um pouco sobre mim: 
 
-🧑🏻‍💻 Como hobbie tenho várias coisas, mas o que mais me encanta é um que tenho na área de TI em geral.
+. 👨🏼‍🏫 Atualmente estou no segundo periodo do curso de engenharia de software pela faculdade Estácio de Sá.
+
+. 🧑🏻‍💻 Como hobbie tenho várias coisas, mas o que mais me encanta é um que tenho na área de TI em geral.
+
+. 🖥️ No momento, tenho algumas noções básicas de lógica de progamação, python, javascript e html. Mas pretendo aprimorar minhas habilidades com o passar do tempo.
+
+. 📘 Como projetos, atualmente só tenho uma simples calculadora de IMC utilizando python que deixarei pulblico. Logo pretendo fazer mais projetos com o decorrer da minha graduação (Tenho muitas ideias, mas ainda estou em fase de aprendizado para colocá-las em prática).
