@@ -37,3 +37,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crl1092&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crl1092&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crl1092/crl1092/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crl1092/crl1092/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/crl1092/crl1092/output/github-contribution-grid-snake.svg">
+</picture>
