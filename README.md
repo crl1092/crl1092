@@ -1,46 +1,53 @@
 # Olá, me chamo Cristhiano Rodrigues 👋
 
-## Um pouco sobre mim: 
+## 🚀 Sobre mim
 
-- 👨🏼‍🏫 Atualmente estou no segundo periodo do curso de engenharia de software pela faculdade Estácio de Sá.
+- 🎓 **Engenharia de Software**: Atualmente no segundo período na Estácio de Sá, focando em fundamentos sólidos e desenvolvimento prático.
+- 💡 **Superação e Foco**: Apesar dos desafios físicos e cognitivos (resquícios de paralisia cerebral), encontro na tecnologia um caminho para superar limites. Sou um entusiasta da aprendizagem contínua e foco na minha evolução constante como desenvolvedor.
+- 📱 **Foco Atual**: Desenvolvendo aplicativos Android nativos utilizando **Kotlin** e **Jetpack Compose**, aplicando conceitos de arquitetura e UI moderna.
 
-- 🧑🏻‍💻 Como hobbie tenho várias coisas, mas o que mais me encanta é um que tenho na área de TI em geral.
+---
 
-- 🖥️ No momento, tenho algumas noções básicas de lógica de progamação, python, javascript e html. Mas pretendo aprimorar minhas habilidades com o passar do tempo.
+## 🛠️ Competências Técnicas
 
-- 📘 Como projetos, atualmente só tenho uma simples calculadora de IMC utilizando python que deixarei pulblico. Logo pretendo fazer mais projetos com o decorrer da minha graduação (Tenho muitas ideias, mas ainda estou em fase de aprendizado para colocá-las em prática).
-
-- 🤔 uma pequena curiosidade sobre mim (irrelevante, provavel mas la vai): Mesmo com todas as minhas dificudades (doença,resquicios de paralisia cerebral e retardo mental leve) estou sempre disposto a buscar mais conhecimento (mesmo que a maioria das coisas eu ainda não consigo ser 100% autonomo infelizmente).
-
-## Linguagens e tecnologias que possuo algum tipo de dominância:
-
-- linguagens de progamação e marcação:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Linguagens e Frameworks
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- tecnologias pro lado de sistema operacional:
-
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-- ferramentas:
-
+### Ferramentas e Ecossistema
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-6f42c1?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## tabelas con infos gerais:
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crl1092&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crl1092&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## 📂 Projetos em Destaque
 
+### [🧮 Objeto de Estudos Android](https://github.com/crl1092/objeto-de-estudos-Android)
+Repositório dedicado à minha jornada no desenvolvimento mobile.
+- **Calculadora Simples**: App com histórico de operações, tratamento de erros (divisão por zero) e interface reativa.
+- **Conceitos Aplicados**: State Management, Separação de responsabilidades (Logic/UI) e Clean Code.
+
+### [⚖️ Calculadora de IMC](https://github.com/crl1092/Calculadora-de-IMC)
+Projeto inicial desenvolvido em Python para consolidar lógica de programação.
+
+---
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crl1092&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crl1092/crl1092/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crl1092/crl1092/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/crl1092/crl1092/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+📫 **Como me encontrar:**
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!
