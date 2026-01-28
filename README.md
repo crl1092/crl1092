@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 **Engenharia de Software**: Atualmente no segundo período na Estácio de Sá, focando em fundamentos sólidos e desenvolvimento prático.
+- 🎓 **Engenharia de Software**: Atualmente no terceiro período na Estácio de Sá, focando em fundamentos sólidos e desenvolvimento prático.
 - 💡 **Superação e Foco**: Apesar dos desafios físicos e cognitivos (resquícios de paralisia cerebral), encontro na tecnologia um caminho para superar limites. Sou um entusiasta da aprendizagem contínua e foco na minha evolução constante como desenvolvedor.
 - 📱 **Foco Atual**: Desenvolvendo aplicativos Android nativos utilizando **Kotlin** e **Jetpack Compose**, aplicando conceitos de arquitetura e UI moderna.
 
